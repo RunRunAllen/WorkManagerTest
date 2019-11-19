@@ -8,9 +8,9 @@
    
 ##  二. 快速开始
 ----------------------
-    ``` java \
+   
     dependencies{
         implementation 'androidx.work:work-runtime:2.2.0'
     }
-    ``` 
+    
     
